@@ -2,7 +2,7 @@
 
 I'm Deanna. I'm a current second year studying computer science at Northeastern University.
 
-You can find all of my computer science projects here. I've worked on back end, front end, and data science projects.
+<!--You can find all of my computer science projects here. I've worked on back end, front end, and data science projects.-->
 
 Languages, tools and technologies I like working with:
 
