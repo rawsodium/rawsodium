@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**rawsodium/rawsodium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Deanna. I'm a current second year studying computer science at Northeastern University.
 
-Here are some ideas to get you started:
+You can find all of my computer science projects here. I've worked on back end, front end, and data science projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages, tools and technologies I like working with:
+
+[![My Skills](https://skillicons.dev/icons?i=java,py,js,react,nodejs,html,css,vscode,idea,vim)](https://skillicons.dev)
+
+Languages, tools and technologies I'd like to learn/become more familiar with:
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,raspberrypi,ts,mysql,postgres,linux,nextjs,django,svelte)](https://skillicons.dev)
+
+## Current Projects
+  - Polishing up my personal website
+  - Discogra.py
+
+## Planned projects
+  - Something with Raspberry Pi
