@@ -12,9 +12,11 @@ Languages, tools and technologies I'd like to learn/become more familiar with:
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,raspberrypi,ts,mysql,postgres,linux,nextjs,django,svelte)](https://skillicons.dev)
 
+<!--
 ## Current Projects
   - Polishing up my personal website
   - Discogra.py
 
 ## Planned projects
   - Something with Raspberry Pi
+-->
