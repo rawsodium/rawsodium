@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Deanna. I'm a current second year studying computer science at Northeastern University. I'm currently looking for internship and co-op opportunities from June - December 2023!
+I'm Deanna. I'm a current second year studying computer science at Northeastern University.
 
 <!--You can find all of my computer science projects here. I've worked on back end, front end, and data science projects.-->
 
