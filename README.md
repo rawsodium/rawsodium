@@ -10,7 +10,7 @@ Languages, tools and technologies I like working with:
 
 Languages, tools and technologies I'd like to learn/become more familiar with:
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,raspberrypi,ts,mysql,postgres,linux,nextjs,django,svelte)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,raspberrypi,ts,mongodb,postgres,linux,nextjs,django,svelte)](https://skillicons.dev)
 
 <!--
 ## Current Projects
