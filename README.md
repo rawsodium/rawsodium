@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Deanna. I'm a current second year studying computer science and music technology at Northeastern University.
+I'm Deanna. I'm a rising third year studying computer science and music technology at Northeastern University.
 
 <!--You can find all of my computer science projects here. I've worked on back end, front end, and data science projects.-->
 
