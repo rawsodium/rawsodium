@@ -6,11 +6,11 @@ I'm Deanna. I'm a rising third year studying computer science and music technolo
 
 Languages, tools and technologies I like working with:
 
-[![My Skills](https://skillicons.dev/icons?i=java,py,js,react,nodejs,html,css,vscode,idea,vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,js,vue,tailwind,react,nodejs,vscode,idea,vim)](https://skillicons.dev)
 
 Languages, tools and technologies I'd like to learn/become more familiar with:
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,raspberrypi,ts,mongodb,postgres,linux,nextjs,django,svelte)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=raspberrypi,ts,mongodb,mysql,docker,linux)](https://skillicons.dev)
 
 <!--
 ## Current Projects
