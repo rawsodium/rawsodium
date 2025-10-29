@@ -2,7 +2,9 @@
 
 I'm Deanna. I'm finishing up my final year at Northeastern University pursuing a masters in computer science. I graduated with a bachelor's in computer science and music technology from Northeastern in May 2025. I'm currently seeking full-time software engineering jobs in the Boston area starting in May 2026.
 
-As a musician and a software engineer, I aim to shape the intersection between the two fields as one by and for creatives and technologists. I'm always looking to tinker with something new. When I'm not working on technical projects, you'll find me cheering on my hockey and baseball teams (LGM, LGI, Go Sox, Go B's, Go NU!), playing one of the various stringed instruments I know (violin/guitar/bass guitar), drawing, or making/arranging music.
+As a musician and a software engineer, I aim to shape the intersection between the two fields as one by and for creatives and technologists. I'm always looking to tinker with something new. 
+
+When I'm not working on technical projects, you'll find me cheering on my hockey and baseball teams (LGM, LGI, Go Sox, Go B's, Go NU!), playing one of the various stringed instruments I know (violin/guitar/bass guitar), drawing, or making/arranging music.
 
 <!--You can find all of my computer science projects here. I've worked on back end, front end, and data science projects.-->
 
